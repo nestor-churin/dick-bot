@@ -87,7 +87,7 @@ async def main():
     @bot.on_message(filters.command("tos"))
     async def tos(client, message):
         if message.chat.id < 0:
-            bot.reply_to(message, "Ця команда доступна лише в приватному чаті.")
+            message.reply("Ця команда доступна лише в приватному чаті.")
             return
         await message.reply("""**Полiтика конфіденційності та умови використання**
 
