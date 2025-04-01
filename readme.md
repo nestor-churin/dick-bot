@@ -62,7 +62,7 @@ python bot.py
 
 ## Author
 
-Developed by StrawSpirit Studio
+Developed by [nestor_churin](t.me/nestor_churin)
 Version: 1.0.0 R
 
 ## License
