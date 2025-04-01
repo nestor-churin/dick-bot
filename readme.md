@@ -67,4 +67,4 @@ Version: 1.0.0 R
 
 ## License
 
-MIT License
+[MIT License](https://github.com/nestor-churin/dick-bot/blob/main/LICENSE)
